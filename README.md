@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/diegoscantam/diegoscantam/main/logo.png)
 ### Hi there
 I'm a bachelor physics student at the University of Trento.
 
